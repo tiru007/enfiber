@@ -1045,6 +1045,7 @@ a:hover {
 .card-header-a .card-title-a a {
   color: #ffffff;
   text-decoration: none;
+  text-shadow: 2px 2px 7px black;
 }
 
 .card-body-a {
@@ -1183,7 +1184,7 @@ a:hover {
 
 .card-header-b .title-2 a {
   color: #ffffff;
-  text-decoration: none;
+  text-decoration: none;    
 }
 
 .card-header-b .date-b {
